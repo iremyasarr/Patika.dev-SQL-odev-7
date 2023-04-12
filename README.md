@@ -4,7 +4,7 @@ Patika.dev &amp; FMSS İş Analisti Practicum SQL ödevi
 ### ödev sorguları ms sql server üzerinden yazılmıştır.
 
 ##### 1.film tablosunda bulunan filmleri rating değerlerine göre gruplayınız.
-<<code> select * from film group by rating; </code>>
+<code> select * from film group by rating; </code>
 
 ##### 2.film tablosunda bulunan filmleri replacement_cost sütununa göre grupladığımızda film sayısı 50 den fazla olan replacement_cost değerini ve karşılık gelen film sayısını sıralayınız.
 <<code> select * from film group by replacement_cost 
